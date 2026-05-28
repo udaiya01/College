@@ -1,0 +1,32 @@
+URL(DATASET)
+
+EXP1(X Y)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1uHZEyYSCBej9DwGGB6G1OklprIq9c-7r0ptJ4POAjcBatQkFeRymb1c8PlGd0_SJPWy58K4DTed1/pub?output=csv
+
+EXP2(WEATHER DATA)
+https://docs.google.com/spreadsheets/d/1KP5L6hAiqsvbziQAxeiXDVfI96yrqvdtp5Fz_kwlxxI/pub?gid=0&single=true&output=csv
+
+EXP3(A-chi square B-anova)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRF29A23fZvOk9mDFif74CE10HIyjwEFGUiDGa6934sFQQnkRm_5Hm9_CsQuTPV2S7MoRyJcGNN-PB8/pub?output=csv
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSHjE6gORxV85VjN26vJPII84nDKJQogeqv5C5jY9Om8eZJOYzH8V1KTaE6Z89wNPWRLsXub47Skycf/pub?output=csv
+
+EXP4(PCA)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTl187Oc8LJiHZ1890DB44kBlEtYU5aCzQUhZkPP4Gg6TXov8VRJloGNtuiZ31FKML6O-eEEqEZtGna/pub?output=csv
+
+EXP5(IRIS)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQFXsD3Gbw4MicmefSWbDO0-M2OSMxiU4jHIQczCqtsmaCqp_Q-q_n21XfCoMyWySJt5uiekkBhCBO-/pub?output=csv
+
+EXP6(IRIS)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQFXsD3Gbw4MicmefSWbDO0-M2OSMxiU4jHIQczCqtsmaCqp_Q-q_n21XfCoMyWySJt5uiekkBhCBO-/pub?output=csv
+
+EXP7(IRIS)
+
+EXP8(IRIS)
+
+EXP9(X Y)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1uHZEyYSCBej9DwGGB6G1OklprIq9c-7r0ptJ4POAjcBatQkFeRymb1c8PlGd0_SJPWy58K4DTed1/pub?output=csv
+
+EXP10(FEATURES1-5 TARGET)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQM0leG1mAFTDtf3MlcYPhU_o-RJ7YvArpyksDMeWbzdrq3HRDBiNZETZ8HshVTZHz1H7IN7pS8Hrpk/pub?output=csv
+
+EXP11(IRIS)

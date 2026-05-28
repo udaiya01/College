@@ -1,0 +1,28 @@
+<web-app>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>BookServlet</servlet-name>
+    <servlet-class>servlet.BookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BookServlet</servlet-name>
+    <url-pattern>/BookServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>BorrowServlet</servlet-name>
+    <servlet-class>servlet.BorrowServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BorrowServlet</servlet-name>
+    <url-pattern>/BorrowServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
